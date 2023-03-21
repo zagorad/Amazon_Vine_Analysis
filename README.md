@@ -9,7 +9,7 @@ The purpose of this project was to analyze Amazon five star reviews from paid vi
 
   •	Paid Vine Members: 170
 
-  •	Non-Vine Members:37,840
+  •	Non-Vine Members: 37,840
 
 ![Total numbers of paid reviews](https://user-images.githubusercontent.com/118132063/226527730-89d47f29-d78e-45da-9bb2-749f740abb24.png)
 
@@ -21,7 +21,7 @@ The purpose of this project was to analyze Amazon five star reviews from paid vi
 
   •	Paid Vine Members: 65
 
-  •	Non-Vine Members:20,612
+  •	Non-Vine Members: 20,612
 
 ![Paid five star reviews](https://user-images.githubusercontent.com/118132063/226529350-43f65468-7f01-4171-a708-edca3b26fc75.png)
 
